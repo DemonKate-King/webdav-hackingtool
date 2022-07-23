@@ -26,4 +26,4 @@ $ python2 webdav.py list.txt script.html
 ### Donate!
 Support the authors:
 
-<noscript><a href="https://www.buymeacoffee.com/HoangDeveloper"><img alt="Donate me" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a></noscript>
+<p><a href="https://www.buymeacoffee.com/HoangDeveloper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" 
