@@ -8,12 +8,12 @@
 
 By HoangDev
 
-## Legal disclaimer:
+## describe:
 
 Webdav Mass Exploiter is a useful tool to deface a website with bug webdav but with this tool you can directly deface many websites in one command also this tool using python programming language
 
 
-### Usage:
+### command install :
 ```
 $ apt update && upgrade
 $ apt install python python2 git openssl curl libcurl
