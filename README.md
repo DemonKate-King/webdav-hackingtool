@@ -23,7 +23,7 @@ $ cd webdav-hackingtool
 $ python2 webdav.py list.txt script.html
 ```
 
-### Donate!
+
 Support the authors:
 
 <h3 align="left">Support:</h3>
