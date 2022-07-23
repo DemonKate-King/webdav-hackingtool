@@ -15,9 +15,12 @@ Usage of FakeAP for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/fakeap
-cd fakeap
-bash fakeap.sh
+$ apt update && upgrade
+$ apt install python python2 git openssl curl libcurl
+$ pip2 install urllib3 chardet certifi idna requests
+$ git clone https://github.com/DemonKate-King/webdav-hackingtool
+$ cd webdav-hackingtool
+$ python2 webdav.py list.txt script.html
 ```
 
 ### Donate!
