@@ -22,6 +22,7 @@ $ pip2 install urllib3 chardet certifi idna requests
 $ git clone https://github.com/DemonKate-King/webdav-hackingtool
 $ cd webdav-hackingtool
 $ python2 webdav.py list.txt script.html
+$ for example : python2 webdav.py https://example.com/ htm
 ```
 
 
