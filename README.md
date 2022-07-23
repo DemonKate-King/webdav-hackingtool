@@ -22,11 +22,11 @@ $ pip2 install urllib3 chardet certifi idna requests
 $ git clone https://github.com/DemonKate-King/webdav-hackingtool
 $ cd webdav-hackingtool
 $ python2 webdav.py list.txt script.html
-$ for example : python2 webdav.py https://example.com/ htm
+$ for example : python2 webdav.py https://example.com/ hacker.htm
 ```
 
 
 Facebook:https://www.facebook.com/Hoang.X.Developer
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/HoangDeveloper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoftwareRat" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/HoangDeveloper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hoangdev" /></a></p><br><br>
