@@ -15,6 +15,8 @@ print """
    \ \/  \/ / _ \ '_ \ / _` |/ _` \ \ / /
     \  /\  /  __/ |_) | (_| | (_| |\ V / 
      \/  \/ \___|_.__/ \__,_|\__,_| \_/  
+     $ for example : python2 webdav.py https://example.com/ htm
+     $ TOOL BY DEMONKATE
                                          
                                           """
 
